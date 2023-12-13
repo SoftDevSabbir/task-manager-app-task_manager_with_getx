@@ -1,6 +1,5 @@
 # Task Manager App
 
-![Screenshot](app-preview.png)
 
 ## Getting Started
 
